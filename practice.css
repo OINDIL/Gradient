@@ -5,7 +5,6 @@
     margin: 0;
     background: linear-gradient(to right, #dcdcf8, #2d5ad2);
 }
-
 .div2 {
     width: 320px;
     height: 50px;
@@ -27,13 +26,7 @@
     margin: 0;
     background: linear-gradient(to right, #aec0b6, #5e7c6e);
 }
-.div5 {
-    width: 320px;
-    height: 50px;
-    padding: 10px;
-    margin: 0;
-    background: linear-gradient(to right, #f12832, #f8ea16);
-}
+
 .div6 {
     width: 320px;
     height: 50px;
@@ -146,4 +139,208 @@
     padding: 10px;
     margin: 0;
     background: linear-gradient(to right, #d9dde1, #5797b9);
+}
+.div22 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #818486, #bdc2c2);
+}
+.div23 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #b1b4b7, #99c2d7);
+}
+.div24 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #7290cc, #a6afae);
+}
+.div25 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #d3dbea, #797e7d);
+}
+.div26 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #b0b0b2, #cbd3d2);
+}
+.div27 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #c7c7d0, #67813d);
+}
+.div28 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #809cd3, #939a99);
+}
+.div29 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #cdd9d6, #82a9c9);
+}
+.div30 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #9ac4f3, #aeb8c0);
+}
+.div31 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #9ac4f3, #7b848c);
+}
+.div32 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #427dbe, #aab4bd);
+}
+.div33 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #5d95d3, #b5c0c9);
+}
+.div34 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #c5d5e8, #1d6fb4);
+}
+.div35 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #c5d5e8, #499a91);
+}
+.div36 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #c5d5e8, #898c8b);
+}
+.div37 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #d1d6dc, #808583);
+}
+.div38 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #a9b8cb, #959b99);
+}
+.div39 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #d4e6fa, #b4bdba);
+}
+.div40 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #aecbf1, #49a1dc);
+}
+.div41 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #adcefa, #3f85b4);
+}
+.div42 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #adcefa, #499a91);
+}
+.div43 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #c4d7ee, #8b9392);
+}
+.div44 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #adbcce, #76807e);
+}
+.div45 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #bfd2ea, #9ba6a3);
+}
+.div46 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #d3e7fc, #999f9d);
+}
+.div47 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #cadbe7, #909694);
+}
+.div48 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #a7d2ef, #676b69);
+}
+.div49 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #cbd2da, #696e6c);
+}
+
+.div50 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(to right, #b3bacb, #484b4a);
 }
